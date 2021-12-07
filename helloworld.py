@@ -1,12 +1,3 @@
-'''
-Created on 04-Sep-2019
-@author: bkadambi
-'''
-
-# -*- coding: UTF-8 -*-
-"""
-hello_flask: First Python-Flask webapp
-"""
 from flask import Flask  # From module flask import class Flask
 app = Flask(__name__)    # Construct an instance of Flask class for our webapp
 
